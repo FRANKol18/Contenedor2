@@ -1,2 +1,2 @@
-# contador
+# contenedor
 contador simple
